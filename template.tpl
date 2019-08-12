@@ -123,7 +123,7 @@ ___TEMPLATE_PARAMETERS___
         ],
         "simpleValueType": true,
         "name": "alias",
-        "checkboxText": "Set Alias",
+        "checkboxText": "Set as Alias",
         "type": "CHECKBOX"
       }
     ]
