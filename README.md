@@ -1,3 +1,1 @@
-# Indicative-GTM-Template
-
-Indicative Google Tag Manager Template for Vendor Portal
+MOVED TO: https://github.com/Indicative/Indicative-GTM-Template
