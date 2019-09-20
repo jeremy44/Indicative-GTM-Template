@@ -1,0 +1,5 @@
+homepage: "www.indicative.com",
+documentation: "https://support.indicative.com/hc/en-us/articles/360023146331-Google-Tag-Manager",
+versions:
+ - sha: 21561f43355f816ea445e8389b6d8304b2069061
+ changeNotes: Initial release.
